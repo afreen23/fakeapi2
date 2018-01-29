@@ -4,7 +4,7 @@
   "input": {},
   "output": {
     "text": [
-      "Hi!What would you like me to do? I can search and play music for you","Great! so what music you would like to here? Rock,pop,classical ..."
+      "Hi!What would you like me to do? I can display top charts and play music for you","Great! so what music you would like to here? Rock,pop,classical ..."
     ],
     "nodes_visited": [
       "Start And Initialize Context"
