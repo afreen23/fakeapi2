@@ -6,6 +6,9 @@
     "text": [
       "Hi!What would you like me to do? I can display top charts and play music for you","Great! so what music you would like to here? Rock,pop,classical ..."
     ],
+    "type": [
+       "text","songslist","song","video","charts"
+    ],
     "data": [
    {
       "id": 1,
