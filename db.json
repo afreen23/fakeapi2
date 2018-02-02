@@ -6,7 +6,7 @@
     "text": [
       "Hi!What would you like me to do? I can display top charts and play music for you","Great! so what music you would like to here? Rock,pop,classical ..."
     ],
-    [
+    "data": [
    {
       "id": 1,
       "song": "Dil Diyan Gallan",
@@ -105,7 +105,7 @@
       "album": "Sonu Ki Titu Ki Sweety",
       "audio": "music/Dil Chori - Sonu Ke Titu Ki Sweety 320Kbps.mp3"
    }
-]
+],
     "nodes_visited": [
       "Start And Initialize Context"
     ],
